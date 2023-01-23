@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Shylock&#39;s site :)</title>
-    <link>https://www.shyl0ck.com/posts/</link>
+    <link>https://shyl0ck.com/posts/</link>
     <description>Recent content in Posts on Shylock&#39;s site :)</description>
     <image>
-      <url>https://www.shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shyl0ck.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shyl0ck.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 in review</title>
-      <link>https://www.shyl0ck.com/posts/2021_in_review/</link>
+      <link>https://shyl0ck.com/posts/2021_in_review/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shyl0ck.com/posts/2021_in_review/</guid>
+      <guid>https://shyl0ck.com/posts/2021_in_review/</guid>
       <description>For me, 2021 was a year of exploration and experimentation</description>
     </item>
     
     <item>
       <title>Business Logic bugs: Bypassing Ilovepdf&#39;s paywall</title>
-      <link>https://www.shyl0ck.com/posts/ilovepdf_paywall_bypass/</link>
+      <link>https://shyl0ck.com/posts/ilovepdf_paywall_bypass/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.shyl0ck.com/posts/ilovepdf_paywall_bypass/</guid>
+      <guid>https://shyl0ck.com/posts/ilovepdf_paywall_bypass/</guid>
       <description>A tale of love, loss and unlimited pdf processing</description>
     </item>
     
