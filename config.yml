@@ -1,0 +1,138 @@
+baseURL: https://shyl0ck.com/
+languageCode: en-us
+title: Shylock's site :)
+paginate: 5
+theme: "PaperMod-updated"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+disqusShortname: emmaoni-com
+disqus_url: emmaoni-com.disqus.com
+relativeURLs: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: 5hylock
+    description: "Just do your best and you'll have peace of mind that your problems are at least external ;)"
+    keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, reversing, reverse engineering, hacking, hacker]
+    author: 5hylock
+    # author: ["Me", "You"] # multiple authors
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark # dark, light
+    disableThemeToggle: true
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: true
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: /favicon.jpg
+
+    label:
+        text: ""
+        icon: /favicon.jpg
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Emmanuel Oni (5hylock)
+        subtitle: "Just a guy interested in stuff. This site is my portfolio and blog."
+        # imageUrl: "https://avatars.githubusercontent.com/u/84208619?s=400&u=5284c4d18a594dc58ae1e4439d40820374a45c05&v=4"
+        imageUrl: "sunset.gif"
+        imageWidth: 400
+        imageHeight: 300
+        imageTitle: sunset gif
+        buttons:
+            - name: Blog
+              url: posts
+            - name: Resume
+              url: my_resume.pdf
+            - name: Notes
+              url: notes
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/5hylock"
+        - name: github
+          url: "https://github.com/5hylock"
+        - name: "linkedin"
+          url:  "https://www.linkedin.com/in/emmanuel-oni-7b2416147/"
+        - name: ctftime
+          url:  "https://ctftime.org/user/77069"
+        - name: goodreads
+          url: "https://goodreads.com/5hyl0ck"
+
+    analytics:
+        google:
+            SiteVerificationTag: "G-88Q8VFZZKG"
+
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # editPost:
+    #     URL: "https://github.com/emmanuel-oni/weblog/content"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 30
+        - identifier: archive
+          name: Archives
+          url: /archives
+          weight: 40
+        - identifier: about
+          name: About
+          url: /about
+          weight: 10
+
+
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

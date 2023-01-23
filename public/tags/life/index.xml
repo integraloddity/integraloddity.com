@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>life on Shylock&#39;s site :)</title>
+    <link>https://www.shyl0ck.com/tags/life/</link>
+    <description>Recent content in life on Shylock&#39;s site :)</description>
+    <image>
+      <url>https://www.shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.shyl0ck.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shyl0ck.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 in review</title>
+      <link>https://www.shyl0ck.com/posts/2021_in_review/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shyl0ck.com/posts/2021_in_review/</guid>
+      <description>For me, 2021 was a year of exploration and experimentation</description>
+    </item>
+    
+  </channel>
+</rss>
