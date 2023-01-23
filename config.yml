@@ -2,7 +2,7 @@ baseURL: https://shyl0ck.com/
 languageCode: en-us
 title: Shylock's site :)
 paginate: 5
-theme: "PaperMod-updated"
+theme: "hugo-PaperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
