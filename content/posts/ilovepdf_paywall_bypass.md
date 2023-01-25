@@ -3,7 +3,7 @@ title: "Business Logic bugs: Bypassing Ilovepdf's paywall"
 date: 2021-12-08
 # weight: 1
 # aliases: ["/first"]
-tags: ["first", "business logic", "bug", "mobile", "hacking"]
+tags: ["business-logic", "bypass", "mobile", "fun"]
 category: ["blog"]
 author: "5hyl0ck"
 showToc: false

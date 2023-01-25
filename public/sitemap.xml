@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shyl0ck.com/notes/primevideo-ad-bypass/</loc>
+  </url><url>
     <loc>https://shyl0ck.com/posts/2021_in_review/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,35 +19,20 @@
     <loc>https://shyl0ck.com/tags/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shyl0ck.com/tags/bug/</loc>
+    <loc>https://shyl0ck.com/posts/ilovepdf_paywall_bypass/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shyl0ck.com/tags/business-logic/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shyl0ck.com/posts/ilovepdf_paywall_bypass/</loc>
+    <loc>https://shyl0ck.com/tags/bypass/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shyl0ck.com/tags/first/</loc>
-    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shyl0ck.com/tags/hacking/</loc>
+    <loc>https://shyl0ck.com/tags/fun/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shyl0ck.com/tags/mobile/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shyl0ck.com/tags/learning/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://shyl0ck.com/notes/test/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://shyl0ck.com/tags/notes/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://shyl0ck.com/notes/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://shyl0ck.com/admin/</loc>
   </url><url>
@@ -54,5 +41,9 @@
     <loc>https://shyl0ck.com/archives/</loc>
   </url><url>
     <loc>https://shyl0ck.com/categories/</loc>
+  </url><url>
+    <loc>https://shyl0ck.com/tags/note/</loc>
+  </url><url>
+    <loc>https://shyl0ck.com/notes/</loc>
   </url>
 </urlset>
