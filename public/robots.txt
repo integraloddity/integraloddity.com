@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://shyl0ck.com/sitemap.xml

@@ -1,6 +1,6 @@
 baseURL: https://shyl0ck.com/
 languageCode: en-us
-title: Shylock's site :)
+title: integraloddity
 paginate: 5
 theme: "hugo-PaperMod"
 
@@ -18,10 +18,10 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: 5hylock
-    description: "Just do your best and you'll have peace of mind that your problems are at least external ;)"
-    keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, reversing, reverse engineering, hacking, hacker]
-    author: 5hylock
+    title: I/O
+    description: "Nothing matters, let's have fun"
+    keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, reversing, reverse engineering, hacking, hacker, integraloddity]
+    author: integraloddity
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
@@ -44,23 +44,23 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: /favicon.jpg
+        favicon: /favicon.ico
 
     label:
         text: ""
-        icon: /favicon.jpg
+        icon: /favicon.ico
         iconHeight: 35
 
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Emmanuel Oni (5hylock)
-        subtitle: "Just a guy interested in stuff. This site is my portfolio and blog."
+        title: Emmanuel Oni
+        subtitle: "Security Researcher and Technology Enthusiast"
         # imageUrl: "https://avatars.githubusercontent.com/u/84208619?s=400&u=5284c4d18a594dc58ae1e4439d40820374a45c05&v=4"
-        imageUrl: "sunset.gif"
+        imageUrl: "newlogo.gif"
         imageWidth: 400
         imageHeight: 300
-        imageTitle: sunset gif
+        imageTitle: logo gif
         buttons:
             - name: Blog
               url: posts
@@ -76,15 +76,15 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/5hylock"
+          url: "https://twitter.com/integraloddity"
         - name: github
-          url: "https://github.com/5hylock"
+          url: "https://github.com/integraloddity"
         - name: "linkedin"
           url:  "https://www.linkedin.com/in/emmanuel-oni-7b2416147/"
         - name: ctftime
           url:  "https://ctftime.org/user/77069"
         - name: goodreads
-          url: "https://goodreads.com/5hyl0ck"
+          url: "https://goodreads.com/integraloddity"
 
     analytics:
         google:

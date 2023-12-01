@@ -5,7 +5,7 @@ weight: 1
 aliases: ["/primevideo"]
 tags: ["fun", "note", "bypass"]
 category: ["blog"]
-author: "5hyl0ck"
+author: "integraloddity"
 showToc: false
 TocOpen: false
 draft: false

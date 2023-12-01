@@ -4,7 +4,7 @@ date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["notes", "learning"]
-author: "5hyl0ck"
+author: "integraloddity"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

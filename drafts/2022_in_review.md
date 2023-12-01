@@ -5,7 +5,7 @@ weight: 1
 aliases: ["/2022"]
 tags: ["life", "year-in-review"]
 category: ["blog"]
-author: "5hyl0ck"
+author: "integraloddity"
 showToc: false
 TocOpen: false
 draft: true

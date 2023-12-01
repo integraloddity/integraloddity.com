@@ -1,11 +1,11 @@
 ---
 title: "2021 in review"
-date: 2021-12-31
+date: "2021-12-31"
 # weight: 1
 aliases: ["/2021"]
 tags: ["life"]
 category: ["blog"]
-author: "5hyl0ck"
+author: "integraloddity"
 showToc: false
 TocOpen: false
 draft: false
@@ -26,7 +26,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
 
 2021 is/was a year. Thanks to peer pressure and the need to add content to this website, I have decided to rub my last 2 brain cells together to memorialize this average, totally-not-special-in-any-way year. Welcome to the most uneventful year in review you've ever read !
