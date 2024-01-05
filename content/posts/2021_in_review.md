@@ -5,7 +5,7 @@ date: "2021-12-31"
 aliases: ["/2021"]
 tags: ["life"]
 category: ["blog"]
-author: "integraloddity"
+author: "iO"
 showToc: false
 TocOpen: false
 draft: false
