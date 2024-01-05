@@ -80,7 +80,7 @@ params:
         - name: github
           url: "https://github.com/integraloddity"
         - name: "linkedin"
-          url:  "https://www.linkedin.com/in/emmanuel-oni-7b2416147/"
+          url:  "https://www.linkedin.com/in/integraloddity/"
         - name: ctftime
           url:  "https://ctftime.org/user/71152"
         - name: goodreads
