@@ -82,7 +82,7 @@ params:
         - name: "linkedin"
           url:  "https://www.linkedin.com/in/emmanuel-oni-7b2416147/"
         - name: ctftime
-          url:  "https://ctftime.org/user/77069"
+          url:  "https://ctftime.org/user/71152"
         - name: goodreads
           url: "https://goodreads.com/integraloddity"
 
