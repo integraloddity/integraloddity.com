@@ -5,7 +5,7 @@ date: 2021-12-08
 # aliases: ["/first"]
 tags: ["business-logic", "bypass", "mobile", "fun"]
 category: ["blog"]
-author: "integraloddity"
+author: "iO"
 showToc: false
 TocOpen: false
 draft: false
