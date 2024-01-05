@@ -1,4 +1,4 @@
-# shyl0ck.com
+# integraloddity.com
 Source code of my website
 - uses Hugo static site generator
 - uses github actions to automatically rebuild site when i push to this repo.
