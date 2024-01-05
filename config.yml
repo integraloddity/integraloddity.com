@@ -1,6 +1,6 @@
 baseURL: https://integraloddity.com/
 languageCode: en-us
-title: IO's Website
+title: iO's Website
 paginate: 5
 theme: "hugo-PaperMod"
 
@@ -18,10 +18,10 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: I/O
+    title: iO
     description: "Nothing matters, let's have fun"
     keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, reversing, reverse engineering, hacking, hacker, integraloddity]
-    author: integraloddity
+    author: iO
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
