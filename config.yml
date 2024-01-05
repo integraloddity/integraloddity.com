@@ -85,7 +85,12 @@ params:
           url:  "https://ctftime.org/user/71152"
         - name: goodreads
           url: "https://goodreads.com/integraloddity"
-
+        - name: cryptohack
+          url: "https://cryptohack.org/user/integraloddity/"
+        - name: hackthebox
+          url: "https://app.hackthebox.com/users/235069"
+        - name: hackerone
+          url: "https://hackerone.com/integraloddity"
     analytics:
         google:
             SiteVerificationTag: "G-88Q8VFZZKG"
