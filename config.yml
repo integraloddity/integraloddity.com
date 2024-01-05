@@ -95,12 +95,6 @@ params:
         hiddenInList: false # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
-    # editPost:
-    #     URL: "https://github.com/emmanuel-oni/weblog/content"
-    #     Text: "Suggest Changes" # edit text
-    #     appendFilePath: true # to append file path to Edit link
-
-    # for search
     # https://fusejs.io/api/options.html
     fuseOpts:
         isCaseSensitive: false
@@ -127,12 +121,11 @@ menu:
 
 
 
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+pygmentsUseClasses: true
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: monokai
