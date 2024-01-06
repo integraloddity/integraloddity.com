@@ -92,7 +92,7 @@ params:
         - name: researchgate
           url: "https://www.researchgate.net/profile/Emmanuel_Oni8"
         - name: lastfm
-          name: "https://www.lesswrong.com/users/integraloddity"
+          url: "https://www.lesswrong.com/users/integraloddity"
     analytics:
         google:
             SiteVerificationTag: "G-88Q8VFZZKG"
