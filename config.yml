@@ -91,8 +91,6 @@ params:
           url: "https://hackerone.com/integraloddity"
         - name: researchgate
           url: "https://www.researchgate.net/profile/Emmanuel_Oni8"
-        - name: resume
-          url: "https://integraloddity.com/my_resume.pdf"
         - name: lastfm
           name: "https://www.lesswrong.com/users/integraloddity"
     analytics:
