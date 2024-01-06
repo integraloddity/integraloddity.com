@@ -64,8 +64,6 @@ params:
         buttons:
             - name: Blog
               url: posts
-            - name: Resume
-              url: my_resume.pdf
             - name: Notes
               url: notes
 
@@ -93,6 +91,10 @@ params:
           url: "https://hackerone.com/integraloddity"
         - name: researchgate
           url: "https://www.researchgate.net/profile/Emmanuel_Oni8"
+        - name: resume
+          url: "https://integraloddity.com/my_resume.pdf"
+        - name: spotify
+          url: "https://open.spotify.com/user/manny0ni14"
     analytics:
         google:
             SiteVerificationTag: "G-88Q8VFZZKG"
