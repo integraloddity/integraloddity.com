@@ -106,10 +106,14 @@ params:
     fuseOpts:
         isCaseSensitive: false
         shouldSort: true
+        includeMatches: true
+        findAllMatches: true
+        includeScore: true
         location: 0
         distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
+        ignoreLocation: true
+        threshold: 0.5
+        minMatchCharLength: 2
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
@@ -125,12 +129,16 @@ menu:
           name: About
           url: /about
           weight: 10
+        - identifier: search
+          name: Search
+          url: /search
+          weight: 50
 
 outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
+        - JSON 
 
 
 pygmentsUseClasses: true
