@@ -95,7 +95,7 @@ params:
           url: "https://integraloddity.com/my_resume.pdf"
         - name: spotify
           url: "https://open.spotify.com/user/manny0ni14"
-        - name: matrix
+        - name: lastfm
           name: "https://www.lesswrong.com/users/integraloddity"
     analytics:
         google:
