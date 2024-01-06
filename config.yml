@@ -77,7 +77,7 @@ params:
           url: "https://twitter.com/integraloddity"
         - name: github
           url: "https://github.com/integraloddity"
-        - name: "linkedin"
+        - name: linkedin
           url:  "https://www.linkedin.com/in/integraloddity/"
         - name: ctftime
           url:  "https://ctftime.org/user/71152"
@@ -93,8 +93,6 @@ params:
           url: "https://www.researchgate.net/profile/Emmanuel_Oni8"
         - name: resume
           url: "https://integraloddity.com/my_resume.pdf"
-        - name: spotify
-          url: "https://open.spotify.com/user/manny0ni14"
         - name: lastfm
           name: "https://www.lesswrong.com/users/integraloddity"
     analytics:
