@@ -5,13 +5,16 @@ ShowReadingTime: false
 disableShare: true
 author: ' '
 ---
-![alt text](https://i.imgur.com/11fpIFS.jpeg)
+![alt text](https://i.pinimg.com/736x/53/bf/53/53bf53eb8b91d0990ddc32cbc30becee.jpg)
 
-Okay, before we go any further, if you're someone with a business/collaboration proposal or you somehow missed my home page, you can download my resume [here](/my_resume.pdf). 
+Hello and welcome to my slice of the internet !
 
-**So, who am I ?** My name is integralOddity and I'm a I.T professional. My core area of expertise and actual profession is in Application Security Research, I have some experience in doing Penetration Tests, Code Reviews, Responsible Disclosures and submitting reports to Bug Bounty programmes so you can be sure that I don't know what I'm talking about. Currently, I work as a security researcher in a product-focused environment. In engaging with AppSec, I've incidentally tried my hands at fields such as Data Analytics, Cloud computing, Software Design, Web Development and Technical Writing :-). Besides the professional stuff, i enjoy gaming, reading and watching movies in my spare time.
+**Who am I ?**   My name is integralOddity and I consider myself a lifelong learner that prioritizes education above most other ambitions. I have found that, in terms of information gain, my day-to-day life has been inefficient and a lot of useful knowledge is lost for no practical reason. As a result of this, I created this website (with the help of existing technologies - check the site footer for proper attribution) to host all the links that make up my digital identity  and to store and share knowledge and reflections. Additionally, I imagine that the exposure of my writing to the wider internet provides a good rationale for maintaining a presentable level of quality and consistency. 
 
-**What's this site for ?** Thanks for asking, this website is meant to serve 2 different purposes:
-- A general blog about life, cool accomplishments and anything interesting i'm up to. Content like this won't be strictly didactic. [blog link](/posts)
-- An online archive to share some of the stuff that i'm learning with the general public as little notes and interesting finds distributed accross different topics. [notes link](/notes)
+**What kinds of things can you find on this site ?** Some of my interests include Computer Security Research (specifically Web Security and IoT Security(specifically Firmware Security(specifically Automatic Code Analysis and Fuzzing))), DIY Electronics, Electronic Music, Digital Art (specifically Algorithmic Art), Knowledge Management and Self Improvement. I also enjoy Science Fiction and love exploring lore and inhabiting the fictional worlds designed by contemporary creators of the genre. Some of my favourite sci-fi titles include Star Trek, The Expanse, Dune, CyberPunk 2077, Love, Death and Robots etc. I generally enjoy attempts at anticipating far future societies and their technologies. The content of this site will most likely be dealing with these topics. This content summary is written from a high level perspective, to be more precise, please check spread of tags on the [tags](/tags) page.
 
+**How is this site laid out ?** This website is meant to serve 2 different purposes:
+- A general blog about life, accomplishments and anything interesting that I am up to. Content like this will not be strictly didactic. [blog link](/posts)
+- An online archive to share some of the stuff that I am currently learning with the general public as little notes and interesting finds distributed accross different topics. [notes link](/notes)
+
+Thank you for taking interest and happy browsing.

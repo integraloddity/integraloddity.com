@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>iO&#39;s Website</title>
+    <link>https://integraloddity.com/</link>
+    <description>Recent content on iO&#39;s Website</description>
+    <image>
+      <title>iO&#39;s Website</title>
+      <url>https://integraloddity.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://integraloddity.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://integraloddity.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bypassing Primevideo ads</title>
+      <link>https://integraloddity.com/notes/primevideo-ad-bypass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/notes/primevideo-ad-bypass/</guid>
+      <description>How to bypass unskippable primevideo ads</description>
+    </item>
+    
+    <item>
+      <title>2021 in review</title>
+      <link>https://integraloddity.com/posts/2021_in_review/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/posts/2021_in_review/</guid>
+      <description>For me, 2021 was a year of exploration and experimentation</description>
+    </item>
+    
+    <item>
+      <title>Business Logic bugs: Bypassing Ilovepdf&#39;s paywall</title>
+      <link>https://integraloddity.com/posts/ilovepdf_paywall_bypass/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/posts/ilovepdf_paywall_bypass/</guid>
+      <description>A tale of love, loss and unlimited pdf processing</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://integraloddity.com/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/admin/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://integraloddity.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/about/</guid>
+      <description>Hello and welcome to my slice of the internet !
+Who am I ? My name is integralOddity and I consider myself a lifelong learner that prioritizes education above most other ambitions. I have found that, in terms of information gain, my day-to-day life has been inefficient and a lot of useful knowledge is lost for no practical reason. As a result of this, I created this website (with the help of existing technologies - check the site footer for proper attribution) to host all the links that make up my digital identity and to store and share knowledge and reflections.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

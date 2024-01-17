@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>arm on iO&#39;s Website</title>
+    <link>https://integraloddity.com/tags/arm/</link>
+    <description>Recent content in arm on iO&#39;s Website</description>
+    <image>
+      <title>iO&#39;s Website</title>
+      <url>https://integraloddity.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://integraloddity.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://integraloddity.com/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARM-1</title>
+      <link>https://integraloddity.com/notes/arm-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://integraloddity.com/notes/arm-1/</guid>
+      <description>iO&amp;#39;s ARM notes</description>
+    </item>
+    
+  </channel>
+</rss>

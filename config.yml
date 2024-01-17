@@ -62,10 +62,12 @@ params:
         imageHeight: 300
         imageTitle: logo gif
         buttons:
-            - name: Blog
+            - name: 👨🏽‍💻 Blog
               url: posts
-            - name: Notes
+            - name: 📓 Notes
               url: notes
+            - name: 🧑🏾‍💼 Resume
+              url: my_resume.pdf
 
     # home-info mode
     homeInfoParams:
@@ -120,11 +122,7 @@ menu:
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 30
-        - identifier: archive
-          name: Archives
-          url: /archives
-          weight: 40
+          weight: 20
         - identifier: about
           name: About
           url: /about
@@ -132,7 +130,7 @@ menu:
         - identifier: search
           name: Search
           url: /search
-          weight: 50
+          weight: 30
 
 outputs:
     home:
