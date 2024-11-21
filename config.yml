@@ -64,8 +64,6 @@ params:
         buttons:
             - name: 👨🏽‍💻 Blog
               url: posts
-            - name: 📓 Notes
-              url: notes
             - name: 🧑🏾‍💼 Resume
               url: my_resume.pdf
 
