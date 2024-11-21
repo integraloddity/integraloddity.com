@@ -89,10 +89,6 @@ params:
           url: "https://app.hackthebox.com/users/235069"
         - name: hackerone
           url: "https://hackerone.com/integraloddity"
-        - name: researchgate
-          url: "https://www.researchgate.net/profile/Emmanuel_Oni8"
-        - name: lastfm
-          url: "https://www.lesswrong.com/users/integraloddity"
     analytics:
         google:
             SiteVerificationTag: "G-88Q8VFZZKG"
