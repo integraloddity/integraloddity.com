@@ -116,7 +116,7 @@ menu:
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 20
+          weight: 40
         - identifier: about
           name: About
           url: /about
@@ -128,7 +128,7 @@ menu:
         - identifier: archives
           name: Archives
           url: /archives
-          weight: 40
+          weight: 20
 
 outputs:
     home:
