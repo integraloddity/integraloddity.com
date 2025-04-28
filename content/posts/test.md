@@ -1,33 +1,33 @@
 ---
-title: "Test blog post"
-date: "2025-04-26"
-# weight: 1
-aliases: ["/2025"]
-tags: ["life"]
-category: ["blog"]
-author: "iO"
+title: Test blog post
+date: 2025-04-26
+aliases:
+  - /2025
+tags:
+  - life
+category:
+  - blog
+author: iO
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: true
-description: "Test blog post"
-disableHLJS: true # to disable highlightjs
-disableShare: false
+description: Test blog post
 disableHLJS: false
+disableShare: false
 hideSummary: true
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: ""
+  alt: <alt text>
+  caption: <text>
+  relative: false
+  hidden: true
 ---
 
-
 ## Intro
-Test blog post. fvvkfpok 
+Test blog post.  
