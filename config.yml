@@ -91,6 +91,8 @@ params:
           url: "https://hackerone.com/integraloddity"
         - name: tryhackme
           url: "https://tryhackme.com/p/integralOddity"
+        - name: bugcrowd
+          url: "https://bugcrowd.com/integraloddity"
     analytics:
         google:
             SiteVerificationTag: "G-88Q8VFZZKG"
