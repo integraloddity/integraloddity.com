@@ -5,10 +5,14 @@ aliases:
   - /2025
 tags:
   - life
+  - bypass
+  - fun
+  - mobile
+  - business-logic
 category:
   - blog
 author: iO
-showToc: false
+showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
@@ -30,4 +34,6 @@ cover:
 ---
 
 ## Intro
-Test blog post.  No other changes fr. 
+Test blog post.  New update with images 
+
+![[Pasted image 20250428123702.png]]
