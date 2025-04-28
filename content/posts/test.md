@@ -9,8 +9,8 @@ category:
   - blog
 author: iO
 showToc: false
-TocOpen: false
-draft: true
+TocOpen: true
+draft: false
 hidemeta: false
 comments: true
 description: Test blog post
@@ -30,4 +30,4 @@ cover:
 ---
 
 ## Intro
-Test blog post.  
+Test blog post.  No other changes fr. 
