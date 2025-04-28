@@ -14,7 +14,7 @@ category:
 author: iO
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: true
 description: Test blog post
