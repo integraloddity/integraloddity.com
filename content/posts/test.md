@@ -36,4 +36,4 @@ cover:
 ## Intro
 Test blog post.  New update with images 
 
-![[Pasted image 20250428124314.png]]
+![[media/Pasted image 20250428124727.png]]
