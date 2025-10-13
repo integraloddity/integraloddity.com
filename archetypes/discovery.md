@@ -3,7 +3,7 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["notes", "learning"]
+tags: ["research","discovery","recon"]
 author: "integraloddity"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -31,3 +31,25 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Abstract
+- One paragraph on what was discovered and why it matters.
+
+## Background & Hypothesis
+- Prior art / assumptions
+
+## Methodology
+- Tools, datasets, versions
+- Reproducible steps
+
+## Findings
+- Observation → evidence (logs, screenshots, metrics)
+- Counter-evidence / anomalies
+
+## Analysis
+- What this implies
+- Limitations & threats to validity
+
+## Reproduction
+```bash
+# commands / scripts to replicate

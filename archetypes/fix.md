@@ -3,7 +3,7 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["notes", "learning"]
+tags: ["fix","repair","debug"]
 author: "integraloddity"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -31,3 +31,19 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Problem Statement
+- Device/OS/App affected
+- Exact error message / behavior
+
+## Symptoms & Scope
+- Repro steps
+- Affected versions / unaffected versions
+- Impact (what’s blocked)
+
+## Root Cause (if known)
+- Short explanation; link to bug/commit if applicable
+
+## The Fix (Fast Path)
+```bash
+# one-shot fix or minimal sequence

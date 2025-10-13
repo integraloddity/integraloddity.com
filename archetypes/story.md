@@ -31,3 +31,32 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Premise (One Bold What-If)
+- Single sentence premise with a tension.
+
+## Assumptions & World Rules
+- Tech limits, social/legal context, economics
+
+## Signals & Drivers
+- Weak signals, trends, counter-trends
+
+## Branching Scenarios
+- **Path A (Optimistic):** beats, outcomes
+- **Path B (Status Quo):** beats, outcomes
+- **Path C (Black Swan):** beats, outcomes
+
+## Vignette (800–1200 words)
+- POV, stakes, concrete texture; 3-act beats
+
+## Implications
+- For individuals / orgs / society
+
+## Backcasting
+- If this happens in 2030, what must be true by 2027/2028/2029?
+
+## Early Warning Indicators
+- What to watch, how to measure
+
+## Actions Now
+- No-regret moves, hedges, bold bets

@@ -3,7 +3,7 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["notes", "learning"]
+tags: ["design","architecture","review"]
 author: "integraloddity"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -31,3 +31,32 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Context & Goals
+- Problem statement, constraints, success metrics
+
+## Current State
+- Diagram / architecture overview (drop image into bundle and reference with `{{</* figure src="diagram.png" alt="…" */>}}`)
+
+## Proposed Design
+- Components and responsibilities
+- Data/Control flows
+- Performance/Security/Privacy considerations
+
+## Trade-offs
+- Option A vs B vs C (table of pros/cons)
+
+## Risks & Mitigations
+- Risk → mitigation; residual risk
+
+## Alternatives Considered
+- Why not X/Y
+
+## Decision & Rationale
+- Chosen option and why
+
+## Open Questions
+- Unknowns, experiments needed
+
+## Implementation Plan
+- Milestones, owners, acceptance criteria
