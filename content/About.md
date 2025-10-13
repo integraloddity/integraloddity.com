@@ -5,7 +5,7 @@ ShowReadingTime: false
 disableShare: true
 author: ' '
 ---
-![alt text](https://i.pinimg.com/736x/53/bf/53/53bf53eb8b91d0990ddc32cbc30becee.jpg)
+![alt text](hello-friend.jpg)
 
 Hello and welcome to my slice of the internet !
 
