@@ -29,7 +29,7 @@ cover:
 
 ---
 
-## Intro
+## Test
 This article details how I bypassed the paywall present in Ilovepdf’s mobile application for the amount of daily PDF processing tasks possible and explains the specific vulnerability type involved: "business logic" 
 
 
