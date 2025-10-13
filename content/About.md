@@ -5,7 +5,7 @@ ShowReadingTime: false
 disableShare: true
 author: ' '
 ---
-![alt text](hello-friend.jpg)
+![alt text](/hello-friend.jpg)
 
 Hello and welcome to my slice of the internet !
 
