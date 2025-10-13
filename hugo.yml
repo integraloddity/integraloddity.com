@@ -1,8 +1,7 @@
 baseURL: https://integraloddity.com/
-languageCode: en-us
 title: iO's Website
-paginate: 5
-theme: "hugo-PaperMod"
+pagination.pagerSize: 5
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,8 +18,8 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: iO
-    description: "Nothing matters, let's have fun"
-    keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, reversing, reverse engineering, hacking, hacker, integraloddity]
+    description: "Welcome to the Infinite Frontier"
+    keywords: [Blog, Portfolio, PaperMod, hacking, 5hylock, emmanuel oni, emmanuel oni canada, reversing, reverse engineering, hacking, hacker, integraloddity]
     author: iO
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -32,10 +31,13 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: true
+    UseHugoToc: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: true
+    comments: false
     hidemeta: false
     hideSummary: false
     showtoc: false
@@ -47,7 +49,7 @@ params:
         favicon: /favicon.ico
 
     label:
-        text: ""
+        text: "integralOddity"
         icon: /favicon.ico
         iconHeight: 35
 
@@ -60,7 +62,7 @@ params:
         imageUrl: "newlogo.gif"
         imageWidth: 400
         imageHeight: 300
-        imageTitle: logo gif
+        imageTitle: ininite loop logo
         buttons:
             - name: 👨🏽‍💻 Blog
               url: posts
@@ -93,28 +95,30 @@ params:
           url: "https://tryhackme.com/p/integralOddity"
         - name: bugcrowd
           url: "https://bugcrowd.com/integraloddity"
+        - name: spotify
+          url: "https://open.spotify.com/user/manny0ni14"
+        - name: instagram
+          url: "https://www.instagram.com/integraloddity/"
+          
     analytics:
-        google:
-            SiteVerificationTag: "G-88Q8VFZZKG"
+      google:
+        SiteVerificationTag: "G-88Q8VFZZKG"
 
     cover:
-        hidden: false # hide everywhere but not in structured data
-        hiddenInList: false # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+      hidden: false # hide everywhere but not in structured data
+      hiddenInList: false # hide on list pages and home
+      hiddenInSingle: true # hide on single page
 
     # https://fusejs.io/api/options.html
     fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        includeMatches: true
-        findAllMatches: true
-        includeScore: true
-        location: 0
-        distance: 1000
-        ignoreLocation: true
-        threshold: 0.5
-        minMatchCharLength: 2
-        keys: ["title", "permalink", "summary", "content"]
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+      keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
         - identifier: tags
