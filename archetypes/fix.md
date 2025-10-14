@@ -32,18 +32,47 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Problem Statement
-- Device/OS/App affected
-- Exact error message / behavior
+> **Fix at a glance**: device/OS, difficulty, time, risk.
 
-## Symptoms & Scope
+## Guide Metadata
+- **Device / OS / App:**  
+- **Difficulty:** Easy / Moderate / Hard  
+- **Time Required:** ~ minutes  
+- **Tools:** list exact models/bits  
+- **Parts:** SKUs/links (with alternatives)  
+- **Warnings:** ESD, battery, sharp edges, warranties
+
+## Symptoms
+- Exact error text / behavior
 - Repro steps
-- Affected versions / unaffected versions
-- Impact (what’s blocked)
+- Affected vs unaffected versions
 
-## Root Cause (if known)
-- Short explanation; link to bug/commit if applicable
+## Before You Begin
+- Backups / sign-outs / battery at X%
+- Disable features that could interfere
 
-## The Fix (Fast Path)
-```bash
-# one-shot fix or minimal sequence
+## Steps
+1. **Step name** — what you’ll accomplish  
+   `{{</* figure src="step1.jpg" alt="Step 1" */>}}`  
+   - Action bullets
+   - Checkpoint result
+2. **Step name**  
+   `{{</* figure src="step2.jpg" alt="Step 2" */>}}`
+
+## Validation
+- How to verify the issue is resolved
+
+## Rollback
+- Safely undo the change if needed
+
+## Alternatives / Workarounds
+- Option A (pros/cons)
+- Option B (pros/cons)
+
+## Post-Fix Prevention
+- Configs, updates, monitoring
+
+## Crosspost Notes (iFixit)
+- Summary (≤1–2 lines)
+- Lead image candidate
+- Section mapping: Tools/Parts/Steps → iFixit fields

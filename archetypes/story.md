@@ -3,8 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["notes", "learning"]
-author: "integraloddity"
+tags: ["thought-experiment","short-story","futures","scenario-planning"]
+author: "iO"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -32,31 +32,49 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Premise (One Bold What-If)
-- Single sentence premise with a tension.
+> Pick **Scenario Planning** or **Short Story** mode below.
 
-## Assumptions & World Rules
-- Tech limits, social/legal context, economics
+## Scenario Planning Mode
+### Focal Question
+- The precise uncertainty we’re exploring.
 
-## Signals & Drivers
-- Weak signals, trends, counter-trends
+### Assumptions & Boundaries
+- Time horizon, domains affected, constraints
 
-## Branching Scenarios
-- **Path A (Optimistic):** beats, outcomes
-- **Path B (Status Quo):** beats, outcomes
-- **Path C (Black Swan):** beats, outcomes
+### Drivers & Uncertainties (STEEP)
+- Social / Tech / Econ / Env / Political signals
 
-## Vignette (800–1200 words)
-- POV, stakes, concrete texture; 3-act beats
+### 2×2 (or n×n) Scenario Frame
+- Axes definitions; why they matter
 
-## Implications
-- For individuals / orgs / society
+### Scenarios (Concise)
+- **S1 (Optimistic)** — logic, key events, end-state
+- **S2 (Baseline)** — logic, key events, end-state
+- **S3 (Disruptive/Black Swan)** — logic, key events, end-state
 
-## Backcasting
-- If this happens in 2030, what must be true by 2027/2028/2029?
+### Vignettes (Diegetic Prototypes)
+- 300–800 word micro-stories per scenario
 
-## Early Warning Indicators
-- What to watch, how to measure
+### Implications & Options
+- No-regret moves, hedges, big bets
 
-## Actions Now
-- No-regret moves, hedges, bold bets
+### Signposts & Triggers
+- What to monitor and how
+
+---
+
+## Short Story Mode (Creative)
+### Premise
+- One bold what-if in a single sentence.
+
+### Cast & Setting
+- Protagonist goal, stakes, friction
+
+### Beat Sheet
+- Act I setup → Act II complications → Act III resolution
+
+### Draft (1200–2500 words)
+- Scene-driven, sensory detail, concrete artifacts
+
+### Author’s Notes
+- Themes, research seeds, next revisions

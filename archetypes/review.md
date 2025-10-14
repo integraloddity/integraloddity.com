@@ -3,8 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["design","architecture","review"]
-author: "integraloddity"
+tags: ["design","architecture","code-review","business-logic"]
+author: "iO"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -32,31 +32,46 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+## Executive Summary
+- What the system does, key risks, and recommended actions.
+
 ## Context & Goals
-- Problem statement, constraints, success metrics
+- Problem statement, constraints, SLAs/SLOs, compliance
 
-## Current State
-- Diagram / architecture overview (drop image into bundle and reference with `{{</* figure src="diagram.png" alt="…" */>}}`)
+## Architecture Overview
+- Diagram and component responsibilities  
+  `{{</* figure src="architecture.png" alt="Architecture" */>}}`
 
-## Proposed Design
-- Components and responsibilities
-- Data/Control flows
-- Performance/Security/Privacy considerations
+## Business Logic Decomposition (Top-Down)
+- **Use-cases → Policies → Rules → Code paths**  
+- Decision table (inputs → rules → outcomes)
 
-## Trade-offs
-- Option A vs B vs C (table of pros/cons)
+## Code Review (Representative Paths)
+- File/Function: rationale, complexity notes
+```lang
+# short snippet emphasizing the reviewed concern
+```
 
-## Risks & Mitigations
-- Risk → mitigation; residual risk
+## Findings: defect/maintainability/security
+- Test coverage gaps
 
-## Alternatives Considered
-- Why not X/Y
+## Data & Control Flows
+- Sequence diagrams for critical transactions
 
-## Decision & Rationale
-- Chosen option and why
+## Quality Attributes
+- Performance, reliability, security, privacy, cost
+
+## Threat Model (High-Level)
+- Assets, trust boundaries, STRIDE notes, key mitigations
+
+## Alternatives & Trade-offs
+- Option A vs B vs C (pros/cons)
+
+## Recommendations
+- Refactors, tests, observability, rollout plan
+
+## Acceptance Criteria
+- What “done” looks like; measurable outcomes
 
 ## Open Questions
-- Unknowns, experiments needed
-
-## Implementation Plan
-- Milestones, owners, acceptance criteria
+- Unknowns, dependencies, spikes needed

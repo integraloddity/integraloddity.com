@@ -3,8 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["DIY","fabrication","3D-printing","hardware"]
-author: "integraloddity"
+tags: ["DIY","fabrication","3D-printing","hardware","instructables"]
+author: "iO"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -32,39 +32,40 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Goal
-- What you’ll build and why it’s useful.
+## Introduction
+- What you’re building and why it’s useful
+- Skill level, build time, cost band
 
-## Bill of Materials (BOM)
+## Supplies (Bill of Materials)
 | Item | Qty | Spec/Link | Est. Cost |
 |-----:|:---:|-----------|----------:|
 |      |     |           |           |
 
 ## Tools
-- Printer / cutters / soldering gear
-- Software (CAD/CAM/slicer) + versions
+- Printer/cutters/soldering, software versions (CAD/CAM/slicer)
 
 ## Safety
-- PPE and hazards
-- Electrical / thermal / chemical notes
+- PPE and specific hazards (thermal, chemical, electrical)
 
 ## Files
-- CAD/STL/Gerber: where they live within the Page Bundle (`/my-build/files/…`)
+- CAD/STL/Gerber locations within the bundle (`/files`)
 
-## Fabrication Steps
-1. **Prepare** (tolerances, orientation, infill)
-2. **Fabricate** (print/mill/cut)
-3. **Post-process** (deburr, tap, glue)
-4. **Assemble** (order & torque; exploded view if available)
-
-## Calibration & Tuning
-- Fit checks, jigs, shims
+## Steps
+1. **Design/Prep** — tolerances, orientation, infill  
+   `{{</* figure src="prep.png" alt="Prep" */>}}`
+2. **Fabricate** — print/mill/laser; temps/speeds
+3. **Post-process** — sand/deburr/tap/glue
+4. **Assembly** — order, torque, jigs; exploded view if any
+5. **Calibration** — fit checks, shims
 
 ## Testing
-- Functional checks and acceptance criteria
+- Acceptance criteria and functional checks
 
 ## Variants
 - Lightweight / ruggedized / modular options
 
 ## Maintenance
-- Replacement parts, common failures & fixes
+- Wear parts, expected lifetime, common failures
+
+## Crosspost Notes (Instructables)
+- Cover image, category, keywords, step image mapping

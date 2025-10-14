@@ -3,8 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["research","discovery","recon"]
-author: "integraloddity"
+tags: ["research","discovery","narrative"]
+author: "iO"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -32,24 +32,34 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Abstract
-- One paragraph on what was discovered and why it matters.
+## Goal (What I Tried to Achieve)
+- Crisp target state; success criteria
 
-## Background & Hypothesis
-- Prior art / assumptions
+## Initial Hypothesis & Constraints
+- Why this should work; assumptions; time/budget/hardware limits
 
-## Methodology
-- Tools, datasets, versions
-- Reproducible steps
+## Attempts & Iterations (Chronological)
+- **T0** — approach, commands/configs, expected vs actual  
+- **T1** — pivot based on evidence  
+```bash
+# repro commands or script fragments
+```
+## Dead ends and eliminated hypotheses
 
-## Findings
-- Observation → evidence (logs, screenshots, metrics)
-- Counter-evidence / anomalies
+## Evidence
+- Logs, traces, benchmarks, screenshots (with captions)
 
 ## Analysis
-- What this implies
-- Limitations & threats to validity
+- What the evidence implies; threats to validity
 
-## Reproduction
-```bash
-# commands / scripts to replicate
+## Result
+- Achieved / Partially achieved / Not achieved, with reasons
+
+## Lessons Learned
+- Reusable insights and anti-patterns
+
+## Next Moves
+- Experiments, metrics, decision gates
+
+## Appendix
+- Raw notes, datasets, links to artifacts
